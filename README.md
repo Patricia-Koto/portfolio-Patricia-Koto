@@ -2,19 +2,8 @@
 
 🎯 **Data Analyst | Statisticienne | Économiste du développement**  
 
-<style>
-  header img {
-    width: 150px !important;
-    height: 150px !important;
-    border-radius: 50% !important;
-    object-fit: cover;
-    display: block;
-    margin: 0 auto 20px auto;
-  }
-</style>
-
 <header>
-  <img src="{{ site.baseurl }}/assets/img/photo.jpg" alt="Patricia KOTO">
+  <img src="{{ site.baseurl }}/assets/img/photo.jpg" alt="Patricia KOTO" width="150">
 </header>
 
 📍 Paris, France  
