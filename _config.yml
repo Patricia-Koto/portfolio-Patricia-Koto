@@ -5,8 +5,6 @@ lang: fr
 show_downloads: false
 baseurl: "/portfolio-Patricia-Koto"
 logo: assets/img/photo.jpg
-# Configuration du logo à gauche
-logo: "assets/img/photo.jpg"
 
 # On injecte du HTML/CSS directement dans la description pour tricher un peu
 description: >
