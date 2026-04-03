@@ -1,0 +1,9 @@
+---
+---
+@import "{{ site.theme }}";
+
+header img {
+  max-width: 150px; /* Limite la largeur */
+  border-radius: 50%; /* Rend l'image ronde comme sur LinkedIn */
+  margin-bottom: 20px;
+}
