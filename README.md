@@ -1,117 +1,148 @@
-# Patricia KOTO NGBANGA  
+# 👋 Patricia KOTO NGBANGA  
 
-**Data Analyst | Statisticienne | Économiste du développement**  
+🎯 **Data Analyst | Statisticienne | Économiste du développement**  
 
-Paris, France  
-Email : [patriciakoto@gmail.com](mailto:patriciakoto@gmail.com)  
-LinkedIn : https://linkedin.com/in/patkot  
-GitHub : https://github.com/Patricia-Koto  
+📍 Paris, France  
+📧 Email : [patriciakoto@gmail.com](mailto:patriciakoto@gmail.com)  
+🔗 LinkedIn : [patkot](https://linkedin.com/in/patkot)  
+💻 GitHub : [Patricia-Koto](https://github.com/Patricia-Koto)  
 
 ---
 
-## À propos de moi  
+## 🚀 À propos de moi  
 
 Économiste du développement et statisticienne, j’utilise les données pour analyser les réalités socio-économiques et appuyer la prise de décision.  
 
 Mon profil combine analyse de données, expérience terrain en enquêtes statistiques et suivi de projets de développement.  
 
-Mon objectif est de transformer les données en outils opérationnels pour orienter les politiques publiques.  
+👉 **Objectif :** transformer les données en outils opérationnels pour orienter les politiques publiques.  
 
 ---
 
-## Compétences  
+## 🧠 Compétences  
 
-**Analyse de données**  
+![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--learn-orange)
+![SQL](https://img.shields.io/badge/SQL-Data%20Engineering-lightgrey)
+![Power BI](https://img.shields.io/badge/PowerBI-Visualization-yellow)
+![MLflow](https://img.shields.io/badge/MLOps-MLflow-blueviolet)
+
+**📊 Analyse de données**  
 Python (Pandas, NumPy), R  
 
-**Statistiques et modélisation**  
+**📈 Statistiques et modélisation**  
 Régression, inférence statistique, modélisation prédictive  
 
-**Machine Learning**  
+**🤖 Machine Learning**  
 Scikit-learn, Statsmodels  
 
-**Visualisation et BI**  
+**📊 Visualisation et BI**  
 Power BI, Excel  
 
-**Data engineering**  
+**⚙️ Data engineering**  
 SQL, notions de PySpark  
 
-**Outils**  
+**🛠️ Outils**  
 Git, MLflow, Streamlit  
 
 ---
 
-## Projets  
+## 📊 Résultats clés  
 
-### Prédiction de la pauvreté (Machine Learning)  
+- Modèle de prédiction de la pauvreté avec une performance élevée (AUC > 0.75)  
+- Modèle de deep learning avec une précision d’environ 90 %  
+- Mise en place d’un suivi MLflow pour comparer plusieurs modèles  
+- Déploiement d’une application interactive pour la prise de décision  
+
+---
+
+## 📂 Projets  
+
+### 🔹 Prédiction de la pauvreté (Machine Learning)  
+
 Développement d’un modèle de classification pour identifier les ménages pauvres à partir de données d’enquête.  
 
-Méthodes : régression logistique, Random Forest, Gradient Boosting, prise en compte des pondérations.  
+**Méthodes :** régression logistique, Random Forest, Gradient Boosting, pondérations statistiques  
 
-Résultat : modèle robuste pour améliorer le ciblage des politiques publiques.  
+**Résultat :** modèle robuste pour améliorer le ciblage des politiques publiques  
 
-Code : https://github.com/Patricia-Koto/memoire  
-Application : https://predictionpauvreterdc.streamlit.app/  
+🔗 Code :  
+[Voir le projet](https://github.com/Patricia-Koto/memoire)  
 
----
-
-### Classification d’images (Deep Learning)  
-Mise en place de modèles de vision par ordinateur pour classifier des images (nature, mer, montagne).  
-
-Modèles : CNN, MobileNetV2 (transfer learning).  
-
-Résultat : précision d’environ 90 %.  
-
-Code : https://github.com/Patricia-Koto/deeplearning_project  
+🔗 Application :  
+[Accéder à l'application](https://predictionpauvreterdc.streamlit.app/)  
 
 ---
 
-### MLOps avec MLflow  
-Mise en place d’un suivi des expériences et comparaison de modèles.  
+### 🔹 Classification d’images (Deep Learning)  
 
-Fonctionnalités : tracking, sélection du meilleur modèle, reproductibilité.  
+Mise en place de modèles de vision par ordinateur pour classifier des images.  
 
-Code : https://github.com/Patricia-Koto  
+**Modèles :** CNN, MobileNetV2  
 
----
+**Résultat :** précision d’environ 90 %  
 
-### Data Warehouse et Power BI  
-Conception d’un entrepôt de données et création de tableaux de bord.  
-
-Technologies : SQL Server, Power BI.  
-
-Code : https://github.com/Patricia-Koto  
+🔗 Code :  
+[Voir le projet](https://github.com/Patricia-Koto/deeplearning_project)  
 
 ---
 
-### Modélisation de données avec Neo4j  
-Analyse de relations complexes via des graphes.  
+### 🔹 MLOps avec MLflow  
 
-Technologies : Neo4j, Cypher.  
+Suivi et comparaison des performances des modèles.  
 
-Code : https://github.com/Patricia-Koto  
+**Contenu :** tracking des expériences, sélection du meilleur modèle  
 
----
-
-## Expérience  
-
-**FORIM — Chargée de suivi de projets**  
-Suivi technique et financier, analyse de données, reporting.  
-
-**Institut National de la Statistique (RDC)**  
-Supervision d’enquêtes nationales, analyse de données, coordination terrain.  
+🔗 Code :  
+[Voir le projet](https://github.com/Patricia-Koto)  
 
 ---
 
-## Formation  
+### 🔹 Data Warehouse & Power BI  
 
-Master Développement — Paris 1 Sorbonne  
-DU Data Analytics — Paris 1  
-Formation en statistique — ENSEA  
+Conception d’un entrepôt de données et création de dashboards.  
+
+**Technologies :** SQL Server, Power BI  
+
+🔗 Code :  
+[Voir le projet](https://github.com/Patricia-Koto)  
 
 ---
 
-## Points forts  
+### 🔹 Graph Data – Neo4j  
+
+Modélisation et analyse de relations complexes.  
+
+**Technologies :** Neo4j, Cypher  
+
+🔗 Code :  
+[Voir le projet](https://github.com/Patricia-Koto)  
+
+---
+
+## 📊 Expérience  
+
+### 🏢 FORIM — Chargée de suivi de projets  
+- Suivi technique et financier  
+- Analyse de données  
+- Reporting  
+
+### 🏢 Institut National de la Statistique (RDC)  
+- Supervision d’enquêtes nationales  
+- Analyse de données  
+- Coordination terrain  
+
+---
+
+## 🎓 Formation  
+
+- Master Développement — Paris 1 Sorbonne  
+- DU Data Analytics — Paris 1  
+- Formation en statistique — ENSEA  
+
+---
+
+## 📌 Points forts  
 
 - Double compétence : terrain et data science  
 - Expérience sur enquêtes nationales  
@@ -120,9 +151,12 @@ Formation en statistique — ENSEA
 
 ---
 
-## Contact  
+## 📬 Contact  
 
-Disponible pour des opportunités en data analysis, suivi-évaluation et data science appliquée.  
+Disponible pour des opportunités en :  
+- Data analysis  
+- Suivi-évaluation  
+- Data science appliquée  
 
-Email : [patriciakoto@gmail.com](mailto:patriciakoto@gmail.com)  
-LinkedIn : https://linkedin.com/in/patkot  
+📧 Email : [patriciakoto@gmail.com](mailto:patriciakoto@gmail.com)  
+🔗 LinkedIn : [patkot](https://linkedin.com/in/patkot)  
