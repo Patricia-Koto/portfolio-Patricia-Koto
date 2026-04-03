@@ -19,4 +19,4 @@ baseurl: "/portfolio-Patricia-Koto"
 
 # Chemin vers ta photo de profil
 # On inclut le baseurl pour que GitHub trouve bien l'image
-logo: "/portfolio-Patricia-Koto/assets/img/photo.PNG"
+logo: "/portfolio-Patricia-Koto/assets/img/photo.jpg"
