@@ -28,7 +28,7 @@ Mon profil combine analyse de données, expérience terrain en enquêtes statist
 ![MLflow](https://img.shields.io/badge/MLOps-MLflow-blueviolet)
 
 **📊 Analyse de données**  
-Python (Pandas, NumPy), R  
+Python (Pandas, NumPy), R, Stata, Excel Avancé,   
 
 **📈 Statistiques et modélisation**  
 Régression, inférence statistique, modélisation prédictive  
