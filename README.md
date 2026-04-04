@@ -146,6 +146,7 @@ Modélisation et analyse de relations complexes.
 
 Disponible pour des opportunités en :  
 - Data analysis  
+- Gestion de projet
 - Suivi-évaluation  
 - Data science appliquée  
 
